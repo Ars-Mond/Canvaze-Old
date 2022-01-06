@@ -1,0 +1,9 @@
+# Visual Studio cache directory
+.vs/*
+
+# JetBrains
+.idea/*
+.idea/
+
+node_modules/*
+node_modules/
