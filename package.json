@@ -1,0 +1,14 @@
+{
+  "name": "canvaze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "author": "Ars_Mond",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
